@@ -1,0 +1,28 @@
+/* 
+    Created on : 18/04/2016, 14:02:53
+    Author     : estagio.gleydson
+*/
+
+#body-pesquisa {
+    
+    width: 585px;
+    background: #F3F5F7;
+    margin: auto;
+}
+
+#body-pesquisa img {
+    
+    display: block;
+    position: relative;
+    margin: auto;
+}
+
+#body-pesquisa h4, h3 {
+    
+    text-align: center;
+}
+
+#body-pesquisa p {
+    
+    text-align: justify;
+}
